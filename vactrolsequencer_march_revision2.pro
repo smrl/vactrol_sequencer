@@ -1,0 +1,24 @@
+update=3/4/2013 5:58:43 PM
+last_client=cvpcb
+[pcbnew]
+[pcbnew/libraries]
+LibName1=sockets
+LibName2=connect
+LibName3=discret
+LibName4=pin_array
+LibName5=divers
+LibName6=libcms
+LibName7=display
+LibName8=valves
+LibName9=led
+LibName10=dip_sockets
+LibName11=vactrol_nsl32_best
+LibName12=kobiconn_16pj138_2
+LibName13=library/kobiconn_hole_final
+LibName14=library/led_hole_3mm
+LibDir=
+[cvpcb]
+version=1
+NetIExt=.net
+[cvpcb/libraries]
+EquName1=devcms

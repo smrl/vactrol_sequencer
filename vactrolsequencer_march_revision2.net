@@ -1,0 +1,629 @@
+# EESchema Netlist Version 1.1 created  3/4/2013 5:59:50 PM
+(
+ ( /50ACE7E0 C1 C1 .1uF
+  ( 1 -12V )
+  ( 2 GND )
+ )
+ ( /50ACE86F C1 C2 .1uF
+  ( 1 +12V )
+  ( 2 GND )
+ )
+ ( /50B05B9B C1 C3 .1uF
+  ( 1 +12V )
+  ( 2 GND )
+ )
+ ( /50AECB08 C1V5 C4 10uF
+  ( 1 GND )
+  ( 2 -12V )
+ )
+ ( /50AEAFE9 C1V5 C5 10uF
+  ( 1 +12V )
+  ( 2 GND )
+ )
+ ( /50ACDF71 LED-3MM D1 LED
+  ( 1 N-000079 )
+  ( 2 N-000081 )
+ )
+ ( /50ACE409 LED-3MM D2 LED
+  ( 1 N-000079 )
+  ( 2 N-000080 )
+ )
+ ( /50ACE423 LED-3MM D3 LED
+  ( 1 N-000079 )
+  ( 2 N-000064 )
+ )
+ ( /50ACE422 LED-3MM D4 LED
+  ( 1 N-000079 )
+  ( 2 N-000065 )
+ )
+ ( /50ACE454 LED-3MM D5 LED
+  ( 1 N-000079 )
+  ( 2 N-000034 )
+ )
+ ( /50ACE453 LED-3MM D6 LED
+  ( 1 N-000079 )
+  ( 2 N-000072 )
+ )
+ ( /50ACE449 LED-3MM D7 LED
+  ( 1 N-000079 )
+  ( 2 N-000048 )
+ )
+ ( /50ACE44A LED-3MM D8 LED
+  ( 1 N-000079 )
+  ( 2 N-000049 )
+ )
+ ( /50AE8905 D3 D9 1N4148
+  ( 1 N-000089 )
+  ( 2 N-000109 )
+ )
+ ( /50AE84C4 D3 D10 1N4148
+  ( 1 N-000096 )
+  ( 2 N-000092 )
+ )
+ ( /50AE96B1 kobiconn_16pj138_2 J1 JACK35
+  ( 1 N-000051 )
+  ( 2 N-000052 )
+  ( 3 ? )
+ )
+ ( /50AE9CC3 kobiconn_16pj138_2 J2 JACK35
+  ( 1 N-000031 )
+  ( 2 N-000106 )
+  ( 3 ? )
+ )
+ ( /50AE96C2 kobiconn_16pj138_2 J3 JACK35
+  ( 1 N-000053 )
+  ( 2 N-000084 )
+  ( 3 ? )
+ )
+ ( /50AE96D5 kobiconn_16pj138_2 J4 JACK35
+  ( 1 N-000032 )
+  ( 2 N-000087 )
+  ( 3 ? )
+ )
+ ( /50AE96E1 kobiconn_16pj138_2 J5 JACK35
+  ( 1 N-000033 )
+  ( 2 N-000086 )
+  ( 3 ? )
+ )
+ ( /50AE96D3 kobiconn_16pj138_2 J6 JACK35
+  ( 1 N-000035 )
+  ( 2 N-000042 )
+  ( 3 ? )
+ )
+ ( /50AE9D06 kobiconn_16pj138_2 J7 JACK35
+  ( 1 N-000047 )
+  ( 2 N-000022 )
+  ( 3 ? )
+ )
+ ( /50AE9D09 kobiconn_16pj138_2 J8 JACK35
+  ( 1 N-000111 )
+  ( 2 N-000021 )
+  ( 3 ? )
+ )
+ ( /50AE96E8 kobiconn_16pj138_2 J9 JACK35
+  ( 1 N-000088 )
+  ( 2 ? )
+  ( 3 ? )
+ )
+ ( /50AE9D21 kobiconn_16pj138_2 J10 JACK35
+  ( 1 N-000050 )
+  ( 2 ? )
+  ( 3 ? )
+ )
+ ( /50AE96EA kobiconn_16pj138_2 J11 JACK35
+  ( 1 N-000091 )
+  ( 2 ? )
+  ( 3 ? )
+ )
+ ( /50B04827 pin_array_12x2 P1 CONN_12X2
+  ( 1 N-000051 )
+  ( 2 N-000081 )
+  ( 3 N-000031 )
+  ( 4 N-000080 )
+  ( 5 N-000053 )
+  ( 6 N-000064 )
+  ( 7 N-000032 )
+  ( 8 N-000065 )
+  ( 9 N-000033 )
+  ( 10 N-000034 )
+  ( 11 N-000035 )
+  ( 12 N-000072 )
+  ( 13 N-000047 )
+  ( 14 N-000048 )
+  ( 15 N-000111 )
+  ( 16 N-000049 )
+  ( 17 N-000088 )
+  ( 18 N-000079 )
+  ( 19 N-000050 )
+  ( 20 N-000079 )
+  ( 21 N-000091 )
+  ( 22 GND )
+  ( 23 GND )
+  ( 24 GND )
+ )
+ ( /50B049D9 pin_array_12x2 P2 CONN_12X2
+  ( 1 /input1 )
+  ( 2 /anode1 )
+  ( 3 /input2 )
+  ( 4 /anode2 )
+  ( 5 /input3 )
+  ( 6 /anode3 )
+  ( 7 /input4 )
+  ( 8 /anode4 )
+  ( 9 /input5 )
+  ( 10 /anode5 )
+  ( 11 /input6 )
+  ( 12 /anode6 )
+  ( 13 /input7 )
+  ( 14 /anode7 )
+  ( 15 /input8 )
+  ( 16 /anode8 )
+  ( 17 /output )
+  ( 18 +12V )
+  ( 19 /clock )
+  ( 20 +12V )
+  ( 21 /reset )
+  ( 22 GND )
+  ( 23 GND )
+  ( 24 GND )
+ )
+ ( /50AFE66E pin_array_8x2 P3 CONN_8X2
+  ( 1 -12V )
+  ( 2 -12V )
+  ( 3 GND )
+  ( 4 GND )
+  ( 5 GND )
+  ( 6 GND )
+  ( 7 GND )
+  ( 8 GND )
+  ( 9 +12V )
+  ( 10 +12V )
+  ( 11 N-000043 )
+  ( 12 N-000043 )
+  ( 13 N-000044 )
+  ( 14 N-000044 )
+  ( 15 N-000045 )
+  ( 16 N-000045 )
+ )
+ ( /50AFE6A9 pin_array_8x2 P4 CONN_8X2
+  ( 1 N-000051 )
+  ( 2 N-000052 )
+  ( 3 N-000031 )
+  ( 4 N-000106 )
+  ( 5 N-000053 )
+  ( 6 N-000084 )
+  ( 7 N-000032 )
+  ( 8 N-000087 )
+  ( 9 N-000033 )
+  ( 10 N-000086 )
+  ( 11 N-000035 )
+  ( 12 N-000042 )
+  ( 13 N-000047 )
+  ( 14 N-000022 )
+  ( 15 N-000111 )
+  ( 16 N-000021 )
+ )
+ ( /50B086B5 kobiconn_hole P5 CONN_1
+  ( 1 GND )
+ )
+ ( /50B086BE kobiconn_hole P6 CONN_1
+  ( 1 GND )
+ )
+ ( /50B086C1 kobiconn_hole P7 CONN_1
+  ( 1 GND )
+ )
+ ( /50B086C0 kobiconn_hole P8 CONN_1
+  ( 1 GND )
+ )
+ ( /50B08723 led_hole_3mm P9 CONN_1
+  ( 1 ? )
+ )
+ ( /50B086C7 kobiconn_hole P10 CONN_1
+  ( 1 GND )
+ )
+ ( /50B08722 led_hole_3mm P11 CONN_1
+  ( 1 ? )
+ )
+ ( /50B086C6 kobiconn_hole P12 CONN_1
+  ( 1 GND )
+ )
+ ( /50B08720 led_hole_3mm P13 CONN_1
+  ( 1 ? )
+ )
+ ( /50B086C4 kobiconn_hole P14 CONN_1
+  ( 1 GND )
+ )
+ ( /50B08721 led_hole_3mm P15 CONN_1
+  ( 1 ? )
+ )
+ ( /50B086C5 kobiconn_hole P16 CONN_1
+  ( 1 GND )
+ )
+ ( /50B0871C led_hole_3mm P17 CONN_1
+  ( 1 ? )
+ )
+ ( /50B086CD kobiconn_hole P18 CONN_1
+  ( 1 GND )
+ )
+ ( /50B0871D led_hole_3mm P19 CONN_1
+  ( 1 ? )
+ )
+ ( /50B086CC kobiconn_hole P20 CONN_1
+  ( 1 GND )
+ )
+ ( /50B0871F led_hole_3mm P21 CONN_1
+  ( 1 ? )
+ )
+ ( /50B086CB kobiconn_hole P22 CONN_1
+  ( 1 GND )
+ )
+ ( /50B0871E led_hole_3mm P23 CONN_1
+  ( 1 ? )
+ )
+ ( /50AECA6B TO92-CBE Q1 2N3904
+  ( B /led1 )
+  ( C N-000083 )
+  ( E N-000107 )
+ )
+ ( /50AECAA4 TO92-CBE Q2 2N3904
+  ( B /led2 )
+  ( C N-000078 )
+  ( E N-000107 )
+ )
+ ( /50AECAA6 TO92-CBE Q3 2N3904
+  ( B /led3 )
+  ( C N-000062 )
+  ( E N-000107 )
+ )
+ ( /50AECAAA TO92-CBE Q4 2N3904
+  ( B /led4 )
+  ( C N-000067 )
+  ( E N-000107 )
+ )
+ ( /50AECAAF TO92-CBE Q5 2N3904
+  ( B /led5 )
+  ( C N-000071 )
+  ( E N-000107 )
+ )
+ ( /50AECAB2 TO92-CBE Q6 2N3904
+  ( B /led6 )
+  ( C N-000074 )
+  ( E N-000107 )
+ )
+ ( /50AECAB4 TO92-CBE Q7 2N3904
+  ( B /led7 )
+  ( C N-000059 )
+  ( E N-000107 )
+ )
+ ( /50AECAB9 TO92-CBE Q8 2N3904
+  ( B /led8 )
+  ( C N-000056 )
+  ( E N-000107 )
+ )
+ ( /50A3F6FE R3-5 R1 R
+  ( 1 N-000107 )
+  ( 2 GND )
+ )
+ ( /50A3F46E R3-5 R2 5.1k
+  ( 1 N-000077 )
+  ( 2 N-000105 )
+ )
+ ( /50A3F4AE R3-5 R3 5.1k
+  ( 1 N-000105 )
+  ( 2 N-000076 )
+ )
+ ( /50A3F4AB R3-5 R4 5.1k
+  ( 1 N-000076 )
+  ( 2 N-000104 )
+ )
+ ( /50A3F4BE R3-5 R5 470
+  ( 1 N-000104 )
+  ( 2 /output )
+ )
+ ( /50AE884E R3-5 R6 10k
+  ( 1 /clock )
+  ( 2 N-000110 )
+ )
+ ( /50AE83C6 R3-5 R7 120k
+  ( 1 +12V )
+  ( 2 N-000095 )
+ )
+ ( /51308769 R3-5 R8 4.7k
+  ( 1 N-000095 )
+  ( 2 GND )
+ )
+ ( /50AE84A6 R3-5 R10 10k
+  ( 1 /reset )
+  ( 2 N-000094 )
+ )
+ ( /50AFE0D7 DIP-16__300 RP1 R_PACK8
+  ( 1 N-000098 )
+  ( 2 N-000007 )
+  ( 3 N-000099 )
+  ( 4 N-000100 )
+  ( 5 N-000101 )
+  ( 6 N-000008 )
+  ( 7 N-000102 )
+  ( 8 N-000108 )
+  ( 9 /led5 )
+  ( 10 /led8 )
+  ( 11 /led4 )
+  ( 12 /led7 )
+  ( 13 /led6 )
+  ( 14 /led3 )
+  ( 15 /led1 )
+  ( 16 /led2 )
+ )
+ ( /50AFE040 SIL-9 RR1 4.7k_Bussed
+  ( 1 N-000077 )
+  ( 2 N-000057 )
+  ( 3 N-000060 )
+  ( 4 N-000075 )
+  ( 5 N-000001 )
+  ( 6 N-000068 )
+  ( 7 N-000121 )
+  ( 8 N-000002 )
+  ( 9 N-000003 )
+ )
+ ( /50B09DB2 SIL-5 RR2 100k
+  ( 1 GND )
+  ( 2 N-000092 )
+  ( 3 N-000109 )
+  ( 4 N-000110 )
+  ( 5 N-000094 )
+ )
+ ( /50ACDF51 vactrol_nsl32 U1 NSL-32
+  ( 1 /anode1 )
+  ( 2 N-000083 )
+  ( 3 N-000003 )
+  ( 4 /input1 )
+ )
+ ( /50ACE40A vactrol_nsl32 U2 NSL-32
+  ( 1 /anode2 )
+  ( 2 N-000078 )
+  ( 3 N-000002 )
+  ( 4 /input2 )
+ )
+ ( /50ACE424 vactrol_nsl32 U3 NSL-32
+  ( 1 /anode3 )
+  ( 2 N-000062 )
+  ( 3 N-000121 )
+  ( 4 /input3 )
+ )
+ ( /50ACE421 vactrol_nsl32 U4 NSL-32
+  ( 1 /anode4 )
+  ( 2 N-000067 )
+  ( 3 N-000068 )
+  ( 4 /input4 )
+ )
+ ( /50ACE455 vactrol_nsl32 U5 NSL-32
+  ( 1 /anode5 )
+  ( 2 N-000071 )
+  ( 3 N-000001 )
+  ( 4 /input5 )
+ )
+ ( /50ACE452 vactrol_nsl32 U6 NSL-32
+  ( 1 /anode6 )
+  ( 2 N-000074 )
+  ( 3 N-000075 )
+  ( 4 /input6 )
+ )
+ ( /50ACE448 vactrol_nsl32 U7 NSL-32
+  ( 1 /anode7 )
+  ( 2 N-000059 )
+  ( 3 N-000060 )
+  ( 4 /input7 )
+ )
+ ( /50ACE44B vactrol_nsl32 U8 NSL-32
+  ( 1 /anode8 )
+  ( 2 N-000056 )
+  ( 3 N-000057 )
+  ( 4 /input8 )
+ )
+ ( /50A3F4AD DIP-8__300 U9 LM6172
+  ( 1 N-000105 )
+  ( 2 N-000077 )
+  ( 3 GND )
+  ( 4 -12V )
+  ( 5 GND )
+  ( 6 N-000076 )
+  ( 7 N-000104 )
+  ( 8 +12V )
+ )
+ ( /50AE8852 DIP-8__300 U10 TL072
+  ( 1 N-000089 )
+  ( 2 N-000095 )
+  ( 3 N-000110 )
+  ( 4 -12V )
+  ( 5 N-000094 )
+  ( 6 N-000095 )
+  ( 7 N-000096 )
+  ( 8 +12V )
+ )
+ ( /50AE8299 DIP-16__300 U11 4022
+  ( 1 N-000098 )
+  ( 2 N-000007 )
+  ( 3 N-000099 )
+  ( 4 N-000100 )
+  ( 5 N-000101 )
+  ( 7 N-000008 )
+  ( 8 GND )
+  ( 10 N-000102 )
+  ( 11 N-000108 )
+  ( 12 ? )
+  ( 13 GND )
+  ( 14 N-000109 )
+  ( 15 N-000092 )
+  ( 16 +12V )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ CP*
+ SM*
+$endlist
+$component C5
+ CP*
+ SM*
+$endlist
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D5
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D6
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D7
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D8
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D9
+ D?
+ S*
+$endlist
+$component D10
+ D?
+ S*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
